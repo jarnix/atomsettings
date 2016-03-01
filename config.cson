@@ -1,0 +1,31 @@
+"*":
+  aligner:
+    alignComments: true
+  "atom-beautify":
+    _analyticsUserId: "2249a54c-b9f5-4c9f-9fc5-5896df7b3201"
+  "atom-typescript": {}
+  core:
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+  "exception-reporting":
+    userId: "d30113e3-d797-f25a-f9fb-4e86a65a2c46"
+  "keyboard-localization":
+    useKeyboardLayout: "fr_FR"
+  minimap:
+    absoluteMode: true
+    plugins:
+      "highlight-selected": true
+      pigments: true
+  "php-debug": {}
+  react: {}
+  "symbols-tree-view":
+    autoToggle: true
+  welcome:
+    showOnStartup: false
