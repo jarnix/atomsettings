@@ -1,8 +1,9 @@
 storage
 compile-cache
 dev
-.apm
+.apm/
 .node-gyp
 .npm/
 packages/
 atom-shell/
+blob-store/
